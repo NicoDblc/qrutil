@@ -2,7 +2,7 @@
 
 A very simple command line program to quickly translate a string or a file to a qr code.
 
-## Prerequisites
+## Dependencies
 
 [QRgen](https://github.com/aruZeta/QRgen)
 
